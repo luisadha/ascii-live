@@ -40,6 +40,7 @@ func DefaultFrameType(frames []string) FrameType {
 
 var FrameMap = map[string]FrameType{
 	"batman":          Batman,
+	"hatsunemiku":     Miku,
 	"batman-running":  BNR,
 	"bnr":             BNR,
 	"can-you-hear-me": Rick,
